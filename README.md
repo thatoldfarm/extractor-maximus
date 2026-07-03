@@ -304,14 +304,6 @@ extractor-maximus/
 
 ---
 
-## **Related Reading**
-
-Black Papers:
-```url
-https://github.com/thatoldfarm/system-prompt/tree/main/series_0000_the-word/LOGOS_KERNEL_BLACK_PAPER
-```
----
-
 ## 🛠️ **Customization**
 
 ### **Modifying Sedenion Matrix**
@@ -347,5 +339,12 @@ This project is **open-source** and available under the [MIT License](https://gi
 - **Sedenion Algebra**: Based on **16D Sedenion mathematics** and **Clifford algebra**.
 - **Physics Integration**: Uses **Einstein Field Equations** for spacetime curvature.
 - **Golden Ratio**: Leverages **Φ (1.618...)** for spiral geometry.
+
+---
+
+
+## **Related Reading**
+
+[LOGOS BLACK PAPERS](https://github.com/thatoldfarm/system-prompt/tree/main/series_0000_the-word/LOGOS_KERNEL_BLACK_PAPER)
 
 ---
