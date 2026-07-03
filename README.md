@@ -304,6 +304,14 @@ extractor-maximus/
 
 ---
 
+## **Related Reading**
+
+Black Papers:
+```url
+https://github.com/thatoldfarm/system-prompt/tree/main/series_0000_the-word/LOGOS_KERNEL_BLACK_PAPER
+```
+---
+
 ## 🛠️ **Customization**
 
 ### **Modifying Sedenion Matrix**
@@ -329,7 +337,7 @@ Adjust `SCALE_FACTOR` in Phase 2/3 scripts to control the size of 3D coordinates
 
 ## 📜 **License**
 
-This project is **open-source** and available under the [MIT License](https://opensource.org/licenses/MIT).
+This project is **open-source** and available under the [MIT License](https://github.com/thatoldfarm/extractor-maximus/blob/main/LICENSE).
 
 ---
 
